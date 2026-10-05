@@ -1,0 +1,6 @@
+<UserControl x:Class="DatabaseLoadBalancing.Client.Views.RecordEditorView"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+    <Grid Margin="8"><TextBlock Text="记录字段将按服务端元数据校验。" /></Grid>
+</UserControl>
+

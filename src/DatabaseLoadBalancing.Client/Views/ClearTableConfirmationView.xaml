@@ -1,0 +1,6 @@
+<UserControl x:Class="DatabaseLoadBalancing.Client.Views.ClearTableConfirmationView"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+    <Grid Margin="8"><TextBlock Text="清空前必须显示表名和当前记录数并明确确认。" /></Grid>
+</UserControl>
+

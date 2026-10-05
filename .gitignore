@@ -1,0 +1,17 @@
+.vs/
+.idea/
+.agents/
+.specify/
+
+**/bin/
+**/obj/
+
+*.user
+*.suo
+*.db
+*.db-shm
+*.db-wal
+*.log
+
+artifacts/
+TestResults/
